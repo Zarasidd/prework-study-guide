@@ -15,7 +15,6 @@ N/A
 
 Each section contains notes about a certain topic, like HTML, CSS, JavaScript, Git. And if we open the DevTools console, we can see the JavaScript running. It will list the topics we learned from prework and choose one topic for us to study first.
 
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
