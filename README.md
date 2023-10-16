@@ -2,7 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - To learn the basics of Web Development.
 - To be able to put into action all that I have learned in the Prework Study guide.
